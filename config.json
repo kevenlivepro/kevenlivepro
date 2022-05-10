@@ -1,0 +1,14 @@
+{
+    "ip": "keven_live_QIbg.aternos.me",
+    "port": 29903,
+    "name": "BOT",
+    "auto-night-skip": "false",
+    "join-msg": "hello",
+    "join-msg-on": "false",
+    "custom-message-enabled": "false",
+    "custom-message-1": "subscribe to LION BOY",
+    "custom-message-2": "subscribe to LION BOY",
+    "login-enabled": "false",
+    "register-cmd": "/register 12345678 12345678",
+    "login-cmd": "/login 12345678"
+}
